@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🚀 Full-Stack Developer | 💻 Linux Enthusiast | 📚 Open-Source Enthusiast
+👋 Welcome to my GitHub! I'm "𝐀𝐭𝐮𝐥 𝐑𝐚𝐣", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2022. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
 
 <!--
 **atul62/atul62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
